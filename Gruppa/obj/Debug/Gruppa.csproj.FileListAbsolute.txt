@@ -1,0 +1,9 @@
+C:\Users\АйткожаЖ.CORP\source\repos\Gruppa\Gruppa\bin\Debug\Database1.mdf
+C:\Users\АйткожаЖ.CORP\source\repos\Gruppa\Gruppa\bin\Debug\Database1_log.ldf
+C:\Users\АйткожаЖ.CORP\source\repos\Gruppa\Gruppa\bin\Debug\Gruppa.exe.config
+C:\Users\АйткожаЖ.CORP\source\repos\Gruppa\Gruppa\bin\Debug\Gruppa.exe
+C:\Users\АйткожаЖ.CORP\source\repos\Gruppa\Gruppa\bin\Debug\Gruppa.pdb
+C:\Users\АйткожаЖ.CORP\source\repos\Gruppa\Gruppa\obj\Debug\Gruppa.csprojAssemblyReference.cache
+C:\Users\АйткожаЖ.CORP\source\repos\Gruppa\Gruppa\obj\Debug\Gruppa.csproj.CoreCompileInputs.cache
+C:\Users\АйткожаЖ.CORP\source\repos\Gruppa\Gruppa\obj\Debug\Gruppa.exe
+C:\Users\АйткожаЖ.CORP\source\repos\Gruppa\Gruppa\obj\Debug\Gruppa.pdb
